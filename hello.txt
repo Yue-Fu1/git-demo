@@ -6,3 +6,4 @@ hello git3
 hello git2 master
 hello git1 master
 hjkhjkh
+asdas by clone
