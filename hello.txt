@@ -3,5 +3,5 @@ hello git6
 hello git5
 hello git4
 hello git3
-hello git2
+hello git2 master
 hello git1
